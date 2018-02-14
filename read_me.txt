@@ -1,0 +1,1 @@
+just execute run_model.bat in command prompt
